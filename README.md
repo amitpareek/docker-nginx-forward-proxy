@@ -1,6 +1,6 @@
 # docker-nginx-forward-proxy
 
-[![github-actions](https://github.com/theohbrothers/docker-nginx-forward-proxy/workflows/ci-master-pr/badge.svg)](https://github.com/theohbrothers/docker-nginx-forward-proxy/actions)
+[![github-actions](https://github.com/theohbrothers/docker-nginx-forward-proxy/actions/workflows/ci-master-pr.yml/badge.svg?branch=master)](https://github.com/theohbrothers/docker-nginx-forward-proxy/actions/workflows/ci-master-pr.yml)
 [![github-release](https://img.shields.io/github/v/release/theohbrothers/docker-nginx-forward-proxy?style=flat-square)](https://github.com/theohbrothers/docker-nginx-forward-proxy/releases/)
 [![docker-image-size](https://img.shields.io/docker/image-size/theohbrothers/docker-nginx-forward-proxy/latest)](https://hub.docker.com/r/theohbrothers/docker-nginx-forward-proxy)
 
